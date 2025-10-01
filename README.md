@@ -1,1 +1,1 @@
-# Velocity-Funds-Alpha1
+# Velocity-Funds-Alpha
